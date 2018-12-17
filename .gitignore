@@ -1,6 +1,12 @@
 # conao3's global .gitignore at
 # http://dotfiles.conao3.com/gitignore
 
+# Target file
+bison-calc
+
+# Flex compiled files
+*.yy.c
+
 # Object files
 *.o
 *.obj
