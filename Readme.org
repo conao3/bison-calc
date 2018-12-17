@@ -1,0 +1,10 @@
+#+author: conao
+#+date: <2018-10-25 Thu>
+
+* bison-calc
+[[https://github.com/conao3/bison-calc][https://img.shields.io/github/tag/conao3/bison-calc.svg?style=flat-square]]
+[[https://travis-ci.org/conao3/bison-calc][https://img.shields.io/travis/conao3/bison-calc/master.svg?style=flat-square]]
+[[https://github.com/conao3/bison-calc][https://img.shields.io/github/license/conao3/bison-calc.svg?style=flat-square]]
+
+* What is it?
+This is flex-bison practice repository.
