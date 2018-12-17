@@ -1,3 +1,7 @@
+%{
+#include "bison-calc.tab.h"
+%}
+
 %%
 "+"    return(ADD);
 "-"    return(SUB);
