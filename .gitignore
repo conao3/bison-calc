@@ -1,0 +1,12 @@
+# conao3's global .gitignore at
+# http://dotfiles.conao3.com/gitignore
+
+# Object files
+*.o
+*.obj
+
+# Librarys
+*.a
+
+# Executables
+*.out
